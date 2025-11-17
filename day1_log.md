@@ -17,10 +17,4 @@
 - Python basics done → tomorrow we’ll write our first small script
 - English listening + reading started strong
 
-## Tomorrow’s Plan (Day 2)
-- English: Tactics Unit 2 (Listening 3–4) + 2 more pages of Bookworms
-- Python: Input, data types, simple calculations → first `.py` file in repo
-- Math: Vector operations (addition, dot product)
-- GitHub: Upload first Python script + Day 2 log
-
 > **Day 1/730 – From 30 % to MIT. One commit at a time.**
