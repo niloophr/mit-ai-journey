@@ -30,7 +30,7 @@
 - [ ] Acceptance + Full Funding 2027
 
 **Daily rule:** 1 % better every day.  
-From Tehran, Iran → Cambridge, MA  
+From Tehran, Iran → MIT, Cambridge, Massachusetts  
 Open to feedback & collaboration.
 
 ---
