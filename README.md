@@ -1,5 +1,5 @@
-![MIT AI Journey - Day 1](https://img.shields.io/badge/MIT_AI_Journey-Day_1_Complete-0066CC?style=for-the-badge&logo=github)
-![Progress](https://img.shields.io/badge/Progress-1%25_Complete-007ACC?style=for-the-badge)
+![MIT AI Journey 2025–2027](https://img.shields.io/badge/MIT_AI_Journey-2025--2027-0055A4?style=for-the-badge&logo=mit&logoColor=white)
+![Day 2 Complete](https://img.shields.io/badge/Day_2_Complete-1E8BC3?style=for-the-badge)
 # Goal: MS in AI/ML at MIT with Full Funding
 
 ## Current Status (November 16, 2025)
