@@ -11,7 +11,7 @@
 - [x] **Math – Linear Algebra**: Reviewed all previous topics (vectors, matrices, operations)
 
 ## Time Spent
-⏱️ ~2 hours (very tired, but chain unbroken)
+⏱️ ~5:30 hours (very tired, but chain unbroken)
 
 📍 Tehran, Iran
 
