@@ -12,7 +12,7 @@
 | Python               | Beginner      | Advanced + PyTorch            |
 | ML/DL Projects       | 0             | 3+ strong + arXiv pre-print   |
 | French               | A0            | B2                            |
-| Daily Chain          | **6 days**    | 730 days unbroken             |
+
 
 ## Daily Logs (public accountability)
 - [Day 1 – Nov 17](day1_log.md) – First English + Linear Algebra intro
@@ -20,7 +20,7 @@
 - [Day 3 – Nov 19](day3_log.md) – Writing + Data Types
 - [Day 4 – Nov 20](day4_log.md) – Data Types script (after long day out)
 - [Day 5 – Nov 21](day5_log.md) – Vocabulary + Numbers
-- [Day 6 – Nov 22](day6_log.md) – (today)
+- [Day 6 – Nov 22](day6_log.md) – 
 - … every single day until the acceptance letter
 
 ## Code Highlights
