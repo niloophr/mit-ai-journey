@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+print(f"Length: {len(name)}")
+print(f"Reversed: {name[::-1]}")
+print(f"First character: {name[0]}")
+print(f"Last character: {name[-1]}")
