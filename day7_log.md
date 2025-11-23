@@ -1,4 +1,4 @@
-# Day 7 – November 23, 2025 (۲ آذر ۱۴۰۴)
+# Day 7 – November 23, 2025 (2 Azar 1404)
 
 ![MIT AI Journey - Day 7](https://img.shields.io/badge/MIT_AI_Journey-Day_7_Complete-0066CC?style=for-the-badge&logo=github)
 ![Progress](https://img.shields.io/badge/Progress-0.96%25_Complete-007ACC?style=for-the-badge)
