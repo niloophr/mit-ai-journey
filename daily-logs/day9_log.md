@@ -1,4 +1,4 @@
-# Day 9 – November 25, 2025 (۴ آذر ۱۴۰۴)
+# Day 9 – November 25, 2025 (4 Azar 1404)
 ![MIT AI Journey - Day 9](https://img.shields.io/badge/MIT_AI_Journey-Day_9_Complete-0066CC?style=for-the-badge&logo=github)
 ![Progress](https://img.shields.io/badge/Progress-1.23%25_Complete-007ACC?style=for-the-badge)
 
