@@ -1,5 +1,4 @@
-![Road to CSAIL](https://images.unsplash.com/photo-1517248135467-2c7ed7fa51da?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)
-
+![Road to CSAIL](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)
 # My Journey to MIT PhD in AI/ML
 
 **Goal**: PhD at MIT EECS (CSAIL), Stanford, or CMU – Fall 2027/2028  
