@@ -31,7 +31,7 @@ All projects will include:
 
 ### Contact
 - Email: niloophr.keshavarz@gmail.com
-- LinkedIn: linkedin.com/in/niloophr (create today if missing)
+- LinkedIn: [Niloofar Keshavarz](https://www.linkedin.com/in/niloophr-keshavarz-6263b4313/)
 
 Open to remote research collaboration with professors worldwide.  
 Star ★ if you're rooting for this journey!
