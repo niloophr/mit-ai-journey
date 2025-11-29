@@ -1,5 +1,6 @@
 # My Journey to MIT PhD in AI/ML
 
+![Road to CSAIL](https://images.unsplash.com/photo-1517248135467-2c7ed7fa51da?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)
 **Goal**: PhD at MIT EECS (CSAIL), Stanford, or CMU – Fall 2027/2028  
 **Research Focus**: Parameter-Efficient Fine-Tuning (PEFT) of Large Language Models
 
