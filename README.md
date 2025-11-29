@@ -36,4 +36,4 @@ Open to remote research collaboration with professors worldwide.
 Star ★ if you're rooting for this journey!
 
 ---
-"From zero to CSAIL — one commit at a time."
+"From zero to CSAIL — one commit at a time." 
