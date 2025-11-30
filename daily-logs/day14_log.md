@@ -2,7 +2,7 @@
 
 ![MIT AI Journey - Day 14](https://img.shields.io/badge/MIT_AI_Journey-Day_14_Complete-0066CC?style=for-the-badge&logo=github)
 
-## Completed
+## Completed ✅
 
 - English Vocab – Health & Illness + Feelings & Emotions (50+ new words)
 - Grammar – Present Continuous (full rules + practice)
