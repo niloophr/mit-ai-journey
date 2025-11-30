@@ -11,8 +11,8 @@
   - Boolean logic & comparisons (and/or/not, ==, !=, in, is)
 
 ## Time Spent
-~85 minutes of solid work  
-Tehran, Iran
+⏱️ ~85 minutes of solid work  
+📍Tehran, Iran
 
 > Day 14 – Slow days build the foundation, strong days build the tower.  
 > Chain is now **14 days strong and unbreakable**.  
