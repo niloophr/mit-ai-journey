@@ -4,9 +4,9 @@
 
 ## Completed ✅
 
-- English Vocab – Health & Illness + Feelings & Emotions (50+ new words)
-- Grammar – Present Continuous (full rules + practice)
-- Python 
+- [x] English Vocab – Health & Illness + Feelings & Emotions (50+ new words)
+- [x] Grammar – Present Continuous (full rules + practice)
+- [x] Python 
   - String methods mastery (upper/lower/strip/split/join/format/f-strings)
   - Boolean logic & comparisons (and/or/not, ==, !=, in, is)
 
