@@ -1,5 +1,5 @@
 # Day 13 – November 29, 2025 (8 Azar 1404)
-
+![MIT AI Journey - Day 13](https://img.shields.io/badge/MIT_AI_Journey-Day_13_Complete-0066CC?style=for-the-badge&logo=github)
 ## Completed ✅
 - [x] **English Reading** – The Midnight Library: read several pages + highlighted new vocab
 - [x] **Writing & Vocab** – noted unknown words from the book
