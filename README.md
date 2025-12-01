@@ -1,6 +1,7 @@
 ![Road to CSAIL](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)
 # My Journey to MIT PhD in AI/ML
-
+![Progress](https://img.shields.io/badge/Phase%201%20Progress-12%25-brightgreen?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-15%20days%20unbroken-Firebrick?style=for-the-badge&logo=github)
 **Goal**: PhD at MIT EECS (CSAIL), Stanford, or CMU – Fall 2027/2028  
 **Research Focus**: Parameter-Efficient Fine-Tuning (PEFT) of Large Language Models
 
