@@ -1,6 +1,5 @@
 # My Journey to MIT PhD in AI/ML
 
-![730-Day Journey](https://img.shields.io/badge/730--Day%20Journey%20to%20MIT-7.1%25-0066CC?style=for-the-badge&logo=github)
 ![Current Streak](https://img.shields.io/badge/Streak-15%20days%20unbroken-0066CC?style=for-the-badge&logo=github)
 
 **Goal**: PhD at MIT EECS (CSAIL), Stanford, or CMU – Fall 2027/2028  
