@@ -2,7 +2,7 @@
 
 ![MIT AI Journey - Day 15](https://img.shields.io/badge/MIT_AI_Journey-Day_15_Complete-0066CC?style=for-the-badge&logo=github)
 
-## Completed
+## Completed ✅
 
 - [x] **English** – Deep dive into unknown vocab: looked up every word, learned meanings + real-life example sentences
 - [x] **Python** – Completely mastered Boolean logic (True/False, None, truthy/falsy)
