@@ -2,7 +2,7 @@
 
 ![MIT AI Journey - Day 16](https://img.shields.io/badge/MIT_AI_Journey-Day_16_Complete-0066CC?style=for-the-badge&logo=github)
 
-## Completed
+## Completed ✅
 
 - [x] **English Grammar** – Fully finished Units 5–7 + all exercises
 - [x] **Grammar Review** – Re-did Units 1–4 + solved every exercise again
