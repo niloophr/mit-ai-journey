@@ -8,7 +8,7 @@
 - [x] **No zero day** – Studied even though I forgot to log yesterday. The work was done.
 
 ## Time Spent
-~75 minutes of focused math  
+~300 minutes of focused math  
 Tehran, Iran
 
 > Day 18 – Forgot to log yesterday, but I DID the work.  
