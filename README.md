@@ -17,19 +17,6 @@ From Islamic Azad University, Neyriz (Iran) → Cambridge, MA
 - Math: Linear Algebra → Probability → Optimization
 - Python/ML: Fast.ai → CS231n → HuggingFace PEFT
 
-### Three Flagship PEFT Projects (2026)
-| # | Project                              | Status    | Timeline      | Why it matters for MIT/Stanford |
-|---|--------------------------------------|-----------|---------------|---------------------------------|
-| 1 | LoRA from Scratch + Fine-tuning LLaMA-3-8B | Planned   | Mar–May 2026  | Pure implementation + full benchmark |
-| 2 | QLoRA: 4-bit 70B Model Training on Single 24GB GPU | Planned   | Jun–Aug 2026  | State-of-the-art efficient training (2023–2025 hottest topic) |
-| 3 | LongLoRA: Efficient 128k Context for LLaMA-3 | Planned   | Sep–Nov 2026  | Direct follow-up of 2024 LongLoRA paper – very few public impls |
-
-All projects will include:
-- Clean, fully documented code
-- Full training/inference scripts
-- Detailed comparison tables (memory, speed, performance)
-- Gradio demo + Colab notebook
-
 ### Contact
 - Email: niloophr.keshavarz@gmail.com
 - LinkedIn: [Niloofar Keshavarz](https://www.linkedin.com/in/niloophr-keshavarz-6263b4313/)
